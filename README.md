@@ -3,7 +3,7 @@
 LeadEX is a modern, full-stack **client-based business website** designed to **showcase and sell products** efficiently.  
 
 ## 🏠 Home Page
-![Home Page](./assets/screenshots/home.png)
+![Home Page](https://github.com/Itsyashasvibhati/LEADEx/blob/2e28aa51be98f41241f09f7c0d526906e80342c9/Screenshot%202025-11-08%20213926.png)
 
 
 
