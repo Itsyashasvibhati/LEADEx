@@ -58,7 +58,7 @@ The platform combines professional aesthetics with scalability, built using **Re
 - Easy navigation between Home, Company, Solutions, and Products  
 - Functional contact form with real-time submission  
 ## 📞 Contact Page
-![Contact Page](./assets/screenshots/contact.png)
+![Contact Page](https://github.com/Itsyashasvibhati/LEADEx/blob/de02810bd6432b39b299e74d7a1457d0afe921ff/Screenshot%202025-11-08%20214017.png)
 
 
 ---
