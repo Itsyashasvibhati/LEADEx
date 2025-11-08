@@ -36,7 +36,7 @@ The platform combines professional aesthetics with scalability, built using **Re
 
 ---
 ## 🛍️ Products Page
-![Products Page](./assets/screenshots/products.png)
+![Products Page](https://github.com/Itsyashasvibhati/LEADEx/blob/e68f85ceaf0edfac9913b9cec7ea94bc8475c94a/Screenshot%202025-11-08%20213958.png)
 
 ## 🏗 Website Sections
 
