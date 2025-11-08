@@ -2,8 +2,8 @@
 
 LeadEX is a modern, full-stack **client-based business website** designed to **showcase and sell products** efficiently.  
 
-### ![Home Page]()
-
+## 🏠 Home Page
+![Home Page](./assets/screenshots/home.png)
 
 
 
@@ -35,6 +35,8 @@ LeadEX is a modern, full-stack **client-based business website** designed to **s
 The platform combines professional aesthetics with scalability, built using **React.js (frontend)** and **Node.js + Express (backend)**, with **MongoDB** as the database.
 
 ---
+## 🛍️ Products Page
+![Products Page](./assets/screenshots/products.png)
 
 ## 🏗 Website Sections
 
@@ -55,7 +57,8 @@ The platform combines professional aesthetics with scalability, built using **Re
 - Clean and responsive design across all devices  
 - Easy navigation between Home, Company, Solutions, and Products  
 - Functional contact form with real-time submission  
-
+## 📞 Contact Page
+![Contact Page](./assets/screenshots/contact.png)
 
 
 ---
